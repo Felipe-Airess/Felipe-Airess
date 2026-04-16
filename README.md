@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=82AAFF&height=150&section=header&text=Olá,%20eu%20sou%20o%20João%20Felipe!&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%">
+<h1 align="left">Olá, eu sou o João Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35" align="absmiddle" alt="Mão acenando"></h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=82AAFF&center=false&vCenter=true&width=500&lines=Desenvolvedor+Web;Transformando+Ideias+em+Codigo;Criando+Aplica%C3%A7%C3%B5es+Robustas" alt="Animação de Digitação" />
@@ -14,16 +14,6 @@
 - 🌱 **Atualmente estou aprendendo:** Todo o ecossistema web, com foco em desenvolvimento Full Stack e Bancos de Dados Relacionais (SQL).
 - 💬 **Pergunte-me sobre:** Desenvolvimento web, estruturação de banco de dados e lógica de programação.
 - ⚡ **Curiosidade:** Gosto de atuar no ciclo completo do projeto, garantindo que o backend converse perfeitamente com o frontend!
-
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
-
-# 🎧 O que estou ouvindo:
-
-<div align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31drr5jbgwn66nhhruhd3tvm4tcy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31drr5jbgwn66nhhruhd3tvm4tcy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=82aaff&bar_color_cover=false&mode=dark" alt="Spotify Now Playing" />
-  </a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
 
@@ -69,6 +59,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe-Airess/Felipe-Airess/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipe-Airess/Felipe-Airess/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
+
+# 🎧 O que estou ouvindo:
+
+<div align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31drr5jbgwn66nhhruhd3tvm4tcy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31drr5jbgwn66nhhruhd3tvm4tcy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=82aaff&bar_color_cover=false&mode=dark" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
