@@ -52,7 +52,7 @@
 
 ### 🔧 Ferramentas e Outros
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 </a>
 
 # 🚀 Projetos em Destaque:
