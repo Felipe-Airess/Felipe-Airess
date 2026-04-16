@@ -1,5 +1,20 @@
+<div align="center">
+  <h1>Olá, eu sou o João Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35" align="absmiddle" alt="Mão acenando"></h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+em+Forma%C3%A7%C3%A3o;Focado+em+Laravel+e+React;Criando+Aplica%C3%A7%C3%B5es+Robustas" alt="Animação de Digitação" />
+</div>
+
+<br>
+
 # 💫 Sobre Mim:
-🔭 Atualmente estou trabalhando em: Bibliotech, um sistema de gestão de bibliotecas usando Laravel e arquitetura MVC.<br><br>👯 Procuro colaborar em: projetos open-source focados em desenvolvimento web e aplicações funcionais.<br><br>🤝 Estou buscando ajuda com: boas práticas de integração entre APIs (Backend) e React (Frontend).<br><br>🌱 Atualmente estou aprendendo: todo o ecossistema web, com foco em React, Laravel avançado e Bancos de Dados Relacionais (SQL).<br><br>💬 Pergunte-me sobre: desenvolvimento web, PHP, estruturação de banco de dados e lógica de programação.<br><br>⚡ Curiosidade: gosto de atuar no ciclo completo do projeto, garantindo que o backend converse perfeitamente com o frontend!
+
+- 🔭 **Atualmente estou trabalhando em:** Bibliotech, um sistema de gestão de bibliotecas usando Laravel e arquitetura MVC.
+- 👯 **Procuro colaborar em:** Projetos open-source focados em desenvolvimento web e aplicações funcionais.
+- 🤝 **Estou buscando ajuda com:** Boas práticas de integração entre APIs (Backend) e React (Frontend).
+- 🌱 **Atualmente estou aprendendo:** Todo o ecossistema web, com foco em React, Laravel avançado e Bancos de Dados Relacionais (SQL).
+- 💬 **Pergunte-me sobre:** Desenvolvimento web, PHP, estruturação de banco de dados e lógica de programação.
+- ⚡ **Curiosidade:** Gosto de atuar no ciclo completo do projeto, garantindo que o backend converse perfeitamente com o frontend!
+
+---
 
 ## 🌐 Contato:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaofelipeaires123@gmail.com) 
@@ -16,4 +31,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Felipe-Airess&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Felipe-Airess&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Felipe-Airess&label=VISITAS+AO+PERFIL&color=2196F3&style=for-the-badge" alt="Contador de Visitas" />
+  </a>
+</div>
