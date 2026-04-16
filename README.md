@@ -1,10 +1,8 @@
-<h1 align="left">Olá, eu sou o João Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35" align="absmiddle" alt="Mão acenando"></h1>
+<h1 align="left">Olá, eu sou o João Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35" align="absmiddle" alt="Mão acenando"></h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=false&vCenter=true&width=500&lines=Desenvolvedor+Web;Transformando+Ideias+em+Codigo;Criando+Aplica%C3%A7%C3%B5es+Robustas" alt="Animação de Digitação" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
 
 # 💫 Sobre Mim:
 
@@ -35,8 +33,6 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
-
 # 💻 Tecnologias e Ferramentas:
 
 ### 🎨 Frontend
@@ -58,8 +54,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
 
 # 🚀 Projetos em Destaque:
 
@@ -89,8 +83,6 @@
 
 [![Repositório](https://img.shields.io/badge/Ver%20Repositório-2ECC71?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Felipe-Airess/Sistema_analise)
 
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
-
 # 📊 Estatísticas e Contribuições:
 
 <div align="center">
@@ -117,8 +109,6 @@
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
-
 # 🎧 O que estou ouvindo:
 
 <div align="left">
@@ -126,8 +116,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31drr5jbgwn66nhhruhd3tvm4tcy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=2ECC71&bar_color_cover=false&mode=dark" alt="Spotify Now Playing" />
   </a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/19324647/190807604-bb502a82-f47d-4ba6-af5d-1ee9c27771e8.gif" width="100%">
 
 # 🌐 Contato:
 
