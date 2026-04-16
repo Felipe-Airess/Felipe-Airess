@@ -12,7 +12,6 @@
 - 👯 **Procuro colaborar em:** Projetos open-source focados em desenvolvimento web e aplicações funcionais.
 - 🤝 **Estou buscando ajuda com:** Boas práticas de integração entre APIs (Backend) e interfaces dinâmicas (Frontend).
 - 🌱 **Atualmente estou aprendendo:** Todo o ecossistema web, com foco em desenvolvimento Full Stack e Bancos de Dados Relacionais (SQL).
-- 💬 **Pergunte-me sobre:** Desenvolvimento web, estruturação de banco de dados e lógica de programação.
 - ⚡ **Curiosidade:** Gosto de atuar no ciclo completo do projeto, garantindo que o backend converse perfeitamente com o frontend!
 
 ## 🌐 Contato:
