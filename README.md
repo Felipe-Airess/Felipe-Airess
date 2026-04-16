@@ -46,13 +46,12 @@
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Felipe-Airess&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&locale=pt-br" alt="Status do GitHub" />
   <img src="https://streak-stats.demolab.com/?user=Felipe-Airess&theme=blue_navy&hide_border=false&locale=pt_BR" alt="Streak do GitHub" />
-  <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-Airess&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
 
 <br>
     
-### 🐍 Minhas Contribuições Diárias:
+### 🐍Contribuições:
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-Airess/Felipe-Airess/output/github-contribution-grid-snake-dark.svg">
